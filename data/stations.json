@@ -1,0 +1,66 @@
+{
+  "METEO_RENNES_01": {
+    "id": "METEO_RENNES_01",
+    "latitude_centre": 48.1173,
+    "longitude_centre": -1.6778,
+    "rayon_km": 15.0,
+    "temperature_actuelle": 12.5,
+    "precipitations_24h": 3.2
+  },
+  "METEO_PARIS_01": {
+    "id": "METEO_PARIS_01",
+    "latitude_centre": 48.8566,
+    "longitude_centre": 2.3522,
+    "rayon_km": 20.0,
+    "temperature_actuelle": 15.3,
+    "precipitations_24h": 0.0
+  },
+  "METEO_LYON_01": {
+    "id": "METEO_LYON_01",
+    "latitude_centre": 45.7640,
+    "longitude_centre": 4.8357,
+    "rayon_km": 18.0,
+    "temperature_actuelle": 14.8,
+    "precipitations_24h": 1.5
+  },
+  "METEO_MARSEILLE_01": {
+    "id": "METEO_MARSEILLE_01",
+    "latitude_centre": 43.2965,
+    "longitude_centre": 5.3698,
+    "rayon_km": 25.0,
+    "temperature_actuelle": 18.7,
+    "precipitations_24h": 0.2
+  },
+  "METEO_BORDEAUX_01": {
+    "id": "METEO_BORDEAUX_01",
+    "latitude_centre": 44.8378,
+    "longitude_centre": -0.5792,
+    "rayon_km": 22.0,
+    "temperature_actuelle": 16.1,
+    "precipitations_24h": 2.8
+  },
+  "METEO_NANTES_01": {
+    "id": "METEO_NANTES_01",
+    "latitude_centre": 47.2184,
+    "longitude_centre": -1.5536,
+    "rayon_km": 16.0,
+    "temperature_actuelle": 13.9,
+    "precipitations_24h": 4.1
+  },
+  "METEO_TOULOUSE_01": {
+    "id": "METEO_TOULOUSE_01",
+    "latitude_centre": 43.6047,
+    "longitude_centre": 1.4442,
+    "rayon_km": 19.0,
+    "temperature_actuelle": 17.4,
+    "precipitations_24h": 0.5
+  },
+  "METEO_STRASBOURG_01": {
+    "id": "METEO_STRASBOURG_01",
+    "latitude_centre": 48.5734,
+    "longitude_centre": 7.7521,
+    "rayon_km": 17.0,
+    "temperature_actuelle": 11.2,
+    "precipitations_24h": 5.3
+  }
+}
